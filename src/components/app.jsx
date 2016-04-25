@@ -21,7 +21,7 @@ class App extends Component {
     });
 
     return (
-      <div style={{color: 'green'}}>
+      <div>
         {messageNodes}
       </div>
     );
